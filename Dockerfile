@@ -5,3 +5,4 @@ RUN /usr/local/bin/install-plugins.sh htmlpublisher
 
 # UI
 RUN /usr/local/bin/install-plugins.sh simple-theme-plugin
+RUN /usr/local/bin/install-plugins.sh locale
