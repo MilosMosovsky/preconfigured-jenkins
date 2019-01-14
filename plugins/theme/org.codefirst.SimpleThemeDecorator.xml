@@ -1,0 +1,7 @@
+<org.codefirst.SimpleThemeDecorator plugin="simple-theme-plugin@0.5.1">
+  <elements>
+    <org.jenkinsci.plugins.simpletheme.CssUrlThemeElement>
+      <url>userContent/neo-light.css</url>
+    </org.jenkinsci.plugins.simpletheme.CssUrlThemeElement>
+  </elements>
+</org.codefirst.SimpleThemeDecorator>
